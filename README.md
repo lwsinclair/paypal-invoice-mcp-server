@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/techflavors-paypal-invoice-mcp-server-badge.png)](https://mseep.ai/app/techflavors-paypal-invoice-mcp-server)
+
 
 # PayPal Invoice MCP Server
 
